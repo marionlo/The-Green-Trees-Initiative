@@ -4284,6 +4284,10 @@ video {
   background-image: linear-gradient(to top left, var(--tw-gradient-stops));
 }
 
+.bg-hero-home-mobile {
+  background-image: url('/assets/img/annie-spratt-135307-unsplash.png');
+}
+
 .from-transparent {
   --tw-gradient-from: transparent;
   --tw-gradient-stops: var(--tw-gradient-from), var(--tw-gradient-to, rgba(0, 0, 0, 0));
@@ -11410,6 +11414,10 @@ video {
   font-family: Cormorant Garamond, serif;
 }
 
+.font-flood {
+  font-family: Flood Std Regular, sans-serif;
+}
+
 .font-thin {
   font-weight: 100;
 }
@@ -11658,6 +11666,10 @@ video {
   height: 100vh;
 }
 
+.h-herohome {
+  height: 37rem;
+}
+
 .text-xs {
   font-size: 0.75rem;
   line-height: 1rem;
@@ -11721,6 +11733,14 @@ video {
 .text-9xl {
   font-size: 8rem;
   line-height: 1;
+}
+
+.text-1xl {
+  font-size: 1.375rem;
+}
+
+.text-4-5xl {
+  font-size: 2.75rem;
 }
 
 .leading-3 {
@@ -11857,6 +11877,10 @@ video {
 
 .m-16 {
   margin: 4rem;
+}
+
+.m-18 {
+  margin: 4.5rem;
 }
 
 .m-20 {
@@ -12231,6 +12255,16 @@ video {
 .mx-16 {
   margin-left: 4rem;
   margin-right: 4rem;
+}
+
+.my-18 {
+  margin-top: 4.5rem;
+  margin-bottom: 4.5rem;
+}
+
+.mx-18 {
+  margin-left: 4.5rem;
+  margin-right: 4.5rem;
 }
 
 .my-20 {
@@ -13031,6 +13065,22 @@ video {
 
 .ml-16 {
   margin-left: 4rem;
+}
+
+.mt-18 {
+  margin-top: 4.5rem;
+}
+
+.mr-18 {
+  margin-right: 4.5rem;
+}
+
+.mb-18 {
+  margin-bottom: 4.5rem;
+}
+
+.ml-18 {
+  margin-left: 4.5rem;
 }
 
 .mt-20 {
@@ -27294,6 +27344,10 @@ video {
   width: 24rem;
 }
 
+.w-148 {
+  width: 19.5rem;
+}
+
 .w-auto {
   width: auto;
 }
@@ -35263,6 +35317,10 @@ video {
     background-image: linear-gradient(to top left, var(--tw-gradient-stops));
   }
 
+  .sm\:bg-hero-home-mobile {
+    background-image: url('/assets/img/annie-spratt-135307-unsplash.png');
+  }
+
   .sm\:from-transparent {
     --tw-gradient-from: transparent;
     --tw-gradient-stops: var(--tw-gradient-from), var(--tw-gradient-to, rgba(0, 0, 0, 0));
@@ -42389,6 +42447,10 @@ video {
     font-family: Cormorant Garamond, serif;
   }
 
+  .sm\:font-flood {
+    font-family: Flood Std Regular, sans-serif;
+  }
+
   .sm\:font-thin {
     font-weight: 100;
   }
@@ -42637,6 +42699,10 @@ video {
     height: 100vh;
   }
 
+  .sm\:h-herohome {
+    height: 37rem;
+  }
+
   .sm\:text-xs {
     font-size: 0.75rem;
     line-height: 1rem;
@@ -42700,6 +42766,14 @@ video {
   .sm\:text-9xl {
     font-size: 8rem;
     line-height: 1;
+  }
+
+  .sm\:text-1xl {
+    font-size: 1.375rem;
+  }
+
+  .sm\:text-4-5xl {
+    font-size: 2.75rem;
   }
 
   .sm\:leading-3 {
@@ -42836,6 +42910,10 @@ video {
 
   .sm\:m-16 {
     margin: 4rem;
+  }
+
+  .sm\:m-18 {
+    margin: 4.5rem;
   }
 
   .sm\:m-20 {
@@ -43210,6 +43288,16 @@ video {
   .sm\:mx-16 {
     margin-left: 4rem;
     margin-right: 4rem;
+  }
+
+  .sm\:my-18 {
+    margin-top: 4.5rem;
+    margin-bottom: 4.5rem;
+  }
+
+  .sm\:mx-18 {
+    margin-left: 4.5rem;
+    margin-right: 4.5rem;
   }
 
   .sm\:my-20 {
@@ -44010,6 +44098,22 @@ video {
 
   .sm\:ml-16 {
     margin-left: 4rem;
+  }
+
+  .sm\:mt-18 {
+    margin-top: 4.5rem;
+  }
+
+  .sm\:mr-18 {
+    margin-right: 4.5rem;
+  }
+
+  .sm\:mb-18 {
+    margin-bottom: 4.5rem;
+  }
+
+  .sm\:ml-18 {
+    margin-left: 4.5rem;
   }
 
   .sm\:mt-20 {
@@ -58260,6 +58364,10 @@ video {
     width: 24rem;
   }
 
+  .sm\:w-148 {
+    width: 19.5rem;
+  }
+
   .sm\:w-auto {
     width: auto;
   }
@@ -66164,6 +66272,10 @@ video {
     background-image: linear-gradient(to top left, var(--tw-gradient-stops));
   }
 
+  .md\:bg-hero-home-mobile {
+    background-image: url('/assets/img/annie-spratt-135307-unsplash.png');
+  }
+
   .md\:from-transparent {
     --tw-gradient-from: transparent;
     --tw-gradient-stops: var(--tw-gradient-from), var(--tw-gradient-to, rgba(0, 0, 0, 0));
@@ -73290,6 +73402,10 @@ video {
     font-family: Cormorant Garamond, serif;
   }
 
+  .md\:font-flood {
+    font-family: Flood Std Regular, sans-serif;
+  }
+
   .md\:font-thin {
     font-weight: 100;
   }
@@ -73538,6 +73654,10 @@ video {
     height: 100vh;
   }
 
+  .md\:h-herohome {
+    height: 37rem;
+  }
+
   .md\:text-xs {
     font-size: 0.75rem;
     line-height: 1rem;
@@ -73601,6 +73721,14 @@ video {
   .md\:text-9xl {
     font-size: 8rem;
     line-height: 1;
+  }
+
+  .md\:text-1xl {
+    font-size: 1.375rem;
+  }
+
+  .md\:text-4-5xl {
+    font-size: 2.75rem;
   }
 
   .md\:leading-3 {
@@ -73737,6 +73865,10 @@ video {
 
   .md\:m-16 {
     margin: 4rem;
+  }
+
+  .md\:m-18 {
+    margin: 4.5rem;
   }
 
   .md\:m-20 {
@@ -74111,6 +74243,16 @@ video {
   .md\:mx-16 {
     margin-left: 4rem;
     margin-right: 4rem;
+  }
+
+  .md\:my-18 {
+    margin-top: 4.5rem;
+    margin-bottom: 4.5rem;
+  }
+
+  .md\:mx-18 {
+    margin-left: 4.5rem;
+    margin-right: 4.5rem;
   }
 
   .md\:my-20 {
@@ -74911,6 +75053,22 @@ video {
 
   .md\:ml-16 {
     margin-left: 4rem;
+  }
+
+  .md\:mt-18 {
+    margin-top: 4.5rem;
+  }
+
+  .md\:mr-18 {
+    margin-right: 4.5rem;
+  }
+
+  .md\:mb-18 {
+    margin-bottom: 4.5rem;
+  }
+
+  .md\:ml-18 {
+    margin-left: 4.5rem;
   }
 
   .md\:mt-20 {
@@ -89161,6 +89319,10 @@ video {
     width: 24rem;
   }
 
+  .md\:w-148 {
+    width: 19.5rem;
+  }
+
   .md\:w-auto {
     width: auto;
   }
@@ -97065,6 +97227,10 @@ video {
     background-image: linear-gradient(to top left, var(--tw-gradient-stops));
   }
 
+  .lg\:bg-hero-home-mobile {
+    background-image: url('/assets/img/annie-spratt-135307-unsplash.png');
+  }
+
   .lg\:from-transparent {
     --tw-gradient-from: transparent;
     --tw-gradient-stops: var(--tw-gradient-from), var(--tw-gradient-to, rgba(0, 0, 0, 0));
@@ -104191,6 +104357,10 @@ video {
     font-family: Cormorant Garamond, serif;
   }
 
+  .lg\:font-flood {
+    font-family: Flood Std Regular, sans-serif;
+  }
+
   .lg\:font-thin {
     font-weight: 100;
   }
@@ -104439,6 +104609,10 @@ video {
     height: 100vh;
   }
 
+  .lg\:h-herohome {
+    height: 37rem;
+  }
+
   .lg\:text-xs {
     font-size: 0.75rem;
     line-height: 1rem;
@@ -104502,6 +104676,14 @@ video {
   .lg\:text-9xl {
     font-size: 8rem;
     line-height: 1;
+  }
+
+  .lg\:text-1xl {
+    font-size: 1.375rem;
+  }
+
+  .lg\:text-4-5xl {
+    font-size: 2.75rem;
   }
 
   .lg\:leading-3 {
@@ -104638,6 +104820,10 @@ video {
 
   .lg\:m-16 {
     margin: 4rem;
+  }
+
+  .lg\:m-18 {
+    margin: 4.5rem;
   }
 
   .lg\:m-20 {
@@ -105012,6 +105198,16 @@ video {
   .lg\:mx-16 {
     margin-left: 4rem;
     margin-right: 4rem;
+  }
+
+  .lg\:my-18 {
+    margin-top: 4.5rem;
+    margin-bottom: 4.5rem;
+  }
+
+  .lg\:mx-18 {
+    margin-left: 4.5rem;
+    margin-right: 4.5rem;
   }
 
   .lg\:my-20 {
@@ -105812,6 +106008,22 @@ video {
 
   .lg\:ml-16 {
     margin-left: 4rem;
+  }
+
+  .lg\:mt-18 {
+    margin-top: 4.5rem;
+  }
+
+  .lg\:mr-18 {
+    margin-right: 4.5rem;
+  }
+
+  .lg\:mb-18 {
+    margin-bottom: 4.5rem;
+  }
+
+  .lg\:ml-18 {
+    margin-left: 4.5rem;
   }
 
   .lg\:mt-20 {
@@ -120062,6 +120274,10 @@ video {
     width: 24rem;
   }
 
+  .lg\:w-148 {
+    width: 19.5rem;
+  }
+
   .lg\:w-auto {
     width: auto;
   }
@@ -127966,6 +128182,10 @@ video {
     background-image: linear-gradient(to top left, var(--tw-gradient-stops));
   }
 
+  .xl\:bg-hero-home-mobile {
+    background-image: url('/assets/img/annie-spratt-135307-unsplash.png');
+  }
+
   .xl\:from-transparent {
     --tw-gradient-from: transparent;
     --tw-gradient-stops: var(--tw-gradient-from), var(--tw-gradient-to, rgba(0, 0, 0, 0));
@@ -135092,6 +135312,10 @@ video {
     font-family: Cormorant Garamond, serif;
   }
 
+  .xl\:font-flood {
+    font-family: Flood Std Regular, sans-serif;
+  }
+
   .xl\:font-thin {
     font-weight: 100;
   }
@@ -135340,6 +135564,10 @@ video {
     height: 100vh;
   }
 
+  .xl\:h-herohome {
+    height: 37rem;
+  }
+
   .xl\:text-xs {
     font-size: 0.75rem;
     line-height: 1rem;
@@ -135403,6 +135631,14 @@ video {
   .xl\:text-9xl {
     font-size: 8rem;
     line-height: 1;
+  }
+
+  .xl\:text-1xl {
+    font-size: 1.375rem;
+  }
+
+  .xl\:text-4-5xl {
+    font-size: 2.75rem;
   }
 
   .xl\:leading-3 {
@@ -135539,6 +135775,10 @@ video {
 
   .xl\:m-16 {
     margin: 4rem;
+  }
+
+  .xl\:m-18 {
+    margin: 4.5rem;
   }
 
   .xl\:m-20 {
@@ -135913,6 +136153,16 @@ video {
   .xl\:mx-16 {
     margin-left: 4rem;
     margin-right: 4rem;
+  }
+
+  .xl\:my-18 {
+    margin-top: 4.5rem;
+    margin-bottom: 4.5rem;
+  }
+
+  .xl\:mx-18 {
+    margin-left: 4.5rem;
+    margin-right: 4.5rem;
   }
 
   .xl\:my-20 {
@@ -136713,6 +136963,22 @@ video {
 
   .xl\:ml-16 {
     margin-left: 4rem;
+  }
+
+  .xl\:mt-18 {
+    margin-top: 4.5rem;
+  }
+
+  .xl\:mr-18 {
+    margin-right: 4.5rem;
+  }
+
+  .xl\:mb-18 {
+    margin-bottom: 4.5rem;
+  }
+
+  .xl\:ml-18 {
+    margin-left: 4.5rem;
   }
 
   .xl\:mt-20 {
@@ -150963,6 +151229,10 @@ video {
     width: 24rem;
   }
 
+  .xl\:w-148 {
+    width: 19.5rem;
+  }
+
   .xl\:w-auto {
     width: auto;
   }
@@ -158867,6 +159137,10 @@ video {
     background-image: linear-gradient(to top left, var(--tw-gradient-stops));
   }
 
+  .\32xl\:bg-hero-home-mobile {
+    background-image: url('/assets/img/annie-spratt-135307-unsplash.png');
+  }
+
   .\32xl\:from-transparent {
     --tw-gradient-from: transparent;
     --tw-gradient-stops: var(--tw-gradient-from), var(--tw-gradient-to, rgba(0, 0, 0, 0));
@@ -165993,6 +166267,10 @@ video {
     font-family: Cormorant Garamond, serif;
   }
 
+  .\32xl\:font-flood {
+    font-family: Flood Std Regular, sans-serif;
+  }
+
   .\32xl\:font-thin {
     font-weight: 100;
   }
@@ -166241,6 +166519,10 @@ video {
     height: 100vh;
   }
 
+  .\32xl\:h-herohome {
+    height: 37rem;
+  }
+
   .\32xl\:text-xs {
     font-size: 0.75rem;
     line-height: 1rem;
@@ -166304,6 +166586,14 @@ video {
   .\32xl\:text-9xl {
     font-size: 8rem;
     line-height: 1;
+  }
+
+  .\32xl\:text-1xl {
+    font-size: 1.375rem;
+  }
+
+  .\32xl\:text-4-5xl {
+    font-size: 2.75rem;
   }
 
   .\32xl\:leading-3 {
@@ -166440,6 +166730,10 @@ video {
 
   .\32xl\:m-16 {
     margin: 4rem;
+  }
+
+  .\32xl\:m-18 {
+    margin: 4.5rem;
   }
 
   .\32xl\:m-20 {
@@ -166814,6 +167108,16 @@ video {
   .\32xl\:mx-16 {
     margin-left: 4rem;
     margin-right: 4rem;
+  }
+
+  .\32xl\:my-18 {
+    margin-top: 4.5rem;
+    margin-bottom: 4.5rem;
+  }
+
+  .\32xl\:mx-18 {
+    margin-left: 4.5rem;
+    margin-right: 4.5rem;
   }
 
   .\32xl\:my-20 {
@@ -167614,6 +167918,22 @@ video {
 
   .\32xl\:ml-16 {
     margin-left: 4rem;
+  }
+
+  .\32xl\:mt-18 {
+    margin-top: 4.5rem;
+  }
+
+  .\32xl\:mr-18 {
+    margin-right: 4.5rem;
+  }
+
+  .\32xl\:mb-18 {
+    margin-bottom: 4.5rem;
+  }
+
+  .\32xl\:ml-18 {
+    margin-left: 4.5rem;
   }
 
   .\32xl\:mt-20 {
@@ -181862,6 +182182,10 @@ video {
 
   .\32xl\:w-96 {
     width: 24rem;
+  }
+
+  .\32xl\:w-148 {
+    width: 19.5rem;
   }
 
   .\32xl\:w-auto {
