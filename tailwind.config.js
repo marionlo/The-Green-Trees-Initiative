@@ -21,9 +21,14 @@ module.exports = {
       },
       height: {
         herohome: "37rem",
+        82: "20.5rem",
+        88: "22rem",
       },
       margin: {
         18: "4.5rem",
+      },
+      padding: {
+        15: "3.875rem",
       },
       width: {
         148: "19.5rem",
