@@ -4288,6 +4288,10 @@ video {
   background-image: url('/assets/img/annie-spratt-135307-unsplash.png');
 }
 
+.bg-dyk-home-mobile {
+  background-image: url('/assets/img/dyk-bg.png');
+}
+
 .from-transparent {
   --tw-gradient-from: transparent;
   --tw-gradient-stops: var(--tw-gradient-from), var(--tw-gradient-to, rgba(0, 0, 0, 0));
@@ -35359,6 +35363,10 @@ video {
     background-image: url('/assets/img/annie-spratt-135307-unsplash.png');
   }
 
+  .sm\:bg-dyk-home-mobile {
+    background-image: url('/assets/img/dyk-bg.png');
+  }
+
   .sm\:from-transparent {
     --tw-gradient-from: transparent;
     --tw-gradient-stops: var(--tw-gradient-from), var(--tw-gradient-to, rgba(0, 0, 0, 0));
@@ -66350,6 +66358,10 @@ video {
 
   .md\:bg-hero-home-mobile {
     background-image: url('/assets/img/annie-spratt-135307-unsplash.png');
+  }
+
+  .md\:bg-dyk-home-mobile {
+    background-image: url('/assets/img/dyk-bg.png');
   }
 
   .md\:from-transparent {
@@ -97345,6 +97357,10 @@ video {
     background-image: url('/assets/img/annie-spratt-135307-unsplash.png');
   }
 
+  .lg\:bg-dyk-home-mobile {
+    background-image: url('/assets/img/dyk-bg.png');
+  }
+
   .lg\:from-transparent {
     --tw-gradient-from: transparent;
     --tw-gradient-stops: var(--tw-gradient-from), var(--tw-gradient-to, rgba(0, 0, 0, 0));
@@ -128338,6 +128354,10 @@ video {
     background-image: url('/assets/img/annie-spratt-135307-unsplash.png');
   }
 
+  .xl\:bg-dyk-home-mobile {
+    background-image: url('/assets/img/dyk-bg.png');
+  }
+
   .xl\:from-transparent {
     --tw-gradient-from: transparent;
     --tw-gradient-stops: var(--tw-gradient-from), var(--tw-gradient-to, rgba(0, 0, 0, 0));
@@ -159329,6 +159349,10 @@ video {
 
   .\32xl\:bg-hero-home-mobile {
     background-image: url('/assets/img/annie-spratt-135307-unsplash.png');
+  }
+
+  .\32xl\:bg-dyk-home-mobile {
+    background-image: url('/assets/img/dyk-bg.png');
   }
 
   .\32xl\:from-transparent {
