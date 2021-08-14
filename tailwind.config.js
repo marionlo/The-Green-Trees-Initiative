@@ -17,6 +17,7 @@ module.exports = {
         "dyk-home-mobile": "url('/assets/img/dyk-bg.png')",
       }),
       fontSize: {
+        "0xs": "0.688rem",
         "1xl": "1.375rem",
         "4-5xl": "2.75rem",
       },
