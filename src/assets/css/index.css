@@ -4288,6 +4288,10 @@ video {
   background-image: url('/assets/img/annie-spratt-135307-unsplash.png');
 }
 
+.bg-hero-home-tablet {
+  background-image: url('/assets/img/hero-tablet.png');
+}
+
 .bg-dyk-home-mobile {
   background-image: url('/assets/img/dyk-bg.png');
 }
@@ -11570,6 +11574,10 @@ video {
   height: 18rem;
 }
 
+.h-77 {
+  height: 19.375rem;
+}
+
 .h-80 {
   height: 20rem;
 }
@@ -11676,10 +11684,6 @@ video {
 
 .h-screen {
   height: 100vh;
-}
-
-.h-herohome {
-  height: 37rem;
 }
 
 .text-xs {
@@ -27394,6 +27398,10 @@ video {
   width: 19.5rem;
 }
 
+.w-260 {
+  width: 40rem;
+}
+
 .w-auto {
   width: auto;
 }
@@ -35367,6 +35375,10 @@ video {
     background-image: url('/assets/img/annie-spratt-135307-unsplash.png');
   }
 
+  .sm\:bg-hero-home-tablet {
+    background-image: url('/assets/img/hero-tablet.png');
+  }
+
   .sm\:bg-dyk-home-mobile {
     background-image: url('/assets/img/dyk-bg.png');
   }
@@ -42649,6 +42661,10 @@ video {
     height: 18rem;
   }
 
+  .sm\:h-77 {
+    height: 19.375rem;
+  }
+
   .sm\:h-80 {
     height: 20rem;
   }
@@ -42755,10 +42771,6 @@ video {
 
   .sm\:h-screen {
     height: 100vh;
-  }
-
-  .sm\:h-herohome {
-    height: 37rem;
   }
 
   .sm\:text-xs {
@@ -58460,6 +58472,10 @@ video {
     width: 19.5rem;
   }
 
+  .sm\:w-260 {
+    width: 40rem;
+  }
+
   .sm\:w-auto {
     width: auto;
   }
@@ -66368,6 +66384,10 @@ video {
     background-image: url('/assets/img/annie-spratt-135307-unsplash.png');
   }
 
+  .md\:bg-hero-home-tablet {
+    background-image: url('/assets/img/hero-tablet.png');
+  }
+
   .md\:bg-dyk-home-mobile {
     background-image: url('/assets/img/dyk-bg.png');
   }
@@ -73650,6 +73670,10 @@ video {
     height: 18rem;
   }
 
+  .md\:h-77 {
+    height: 19.375rem;
+  }
+
   .md\:h-80 {
     height: 20rem;
   }
@@ -73756,10 +73780,6 @@ video {
 
   .md\:h-screen {
     height: 100vh;
-  }
-
-  .md\:h-herohome {
-    height: 37rem;
   }
 
   .md\:text-xs {
@@ -89461,6 +89481,10 @@ video {
     width: 19.5rem;
   }
 
+  .md\:w-260 {
+    width: 40rem;
+  }
+
   .md\:w-auto {
     width: auto;
   }
@@ -97369,6 +97393,10 @@ video {
     background-image: url('/assets/img/annie-spratt-135307-unsplash.png');
   }
 
+  .lg\:bg-hero-home-tablet {
+    background-image: url('/assets/img/hero-tablet.png');
+  }
+
   .lg\:bg-dyk-home-mobile {
     background-image: url('/assets/img/dyk-bg.png');
   }
@@ -104651,6 +104679,10 @@ video {
     height: 18rem;
   }
 
+  .lg\:h-77 {
+    height: 19.375rem;
+  }
+
   .lg\:h-80 {
     height: 20rem;
   }
@@ -104757,10 +104789,6 @@ video {
 
   .lg\:h-screen {
     height: 100vh;
-  }
-
-  .lg\:h-herohome {
-    height: 37rem;
   }
 
   .lg\:text-xs {
@@ -120462,6 +120490,10 @@ video {
     width: 19.5rem;
   }
 
+  .lg\:w-260 {
+    width: 40rem;
+  }
+
   .lg\:w-auto {
     width: auto;
   }
@@ -128370,6 +128402,10 @@ video {
     background-image: url('/assets/img/annie-spratt-135307-unsplash.png');
   }
 
+  .xl\:bg-hero-home-tablet {
+    background-image: url('/assets/img/hero-tablet.png');
+  }
+
   .xl\:bg-dyk-home-mobile {
     background-image: url('/assets/img/dyk-bg.png');
   }
@@ -135652,6 +135688,10 @@ video {
     height: 18rem;
   }
 
+  .xl\:h-77 {
+    height: 19.375rem;
+  }
+
   .xl\:h-80 {
     height: 20rem;
   }
@@ -135758,10 +135798,6 @@ video {
 
   .xl\:h-screen {
     height: 100vh;
-  }
-
-  .xl\:h-herohome {
-    height: 37rem;
   }
 
   .xl\:text-xs {
@@ -151463,6 +151499,10 @@ video {
     width: 19.5rem;
   }
 
+  .xl\:w-260 {
+    width: 40rem;
+  }
+
   .xl\:w-auto {
     width: auto;
   }
@@ -159371,6 +159411,10 @@ video {
     background-image: url('/assets/img/annie-spratt-135307-unsplash.png');
   }
 
+  .\32xl\:bg-hero-home-tablet {
+    background-image: url('/assets/img/hero-tablet.png');
+  }
+
   .\32xl\:bg-dyk-home-mobile {
     background-image: url('/assets/img/dyk-bg.png');
   }
@@ -166653,6 +166697,10 @@ video {
     height: 18rem;
   }
 
+  .\32xl\:h-77 {
+    height: 19.375rem;
+  }
+
   .\32xl\:h-80 {
     height: 20rem;
   }
@@ -166759,10 +166807,6 @@ video {
 
   .\32xl\:h-screen {
     height: 100vh;
-  }
-
-  .\32xl\:h-herohome {
-    height: 37rem;
   }
 
   .\32xl\:text-xs {
@@ -182462,6 +182506,10 @@ video {
 
   .\32xl\:w-148 {
     width: 19.5rem;
+  }
+
+  .\32xl\:w-260 {
+    width: 40rem;
   }
 
   .\32xl\:w-auto {

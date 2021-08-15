@@ -14,6 +14,7 @@ module.exports = {
       backgroundImage: (theme) => ({
         "hero-home-mobile":
           "url('/assets/img/annie-spratt-135307-unsplash.png')",
+        "hero-home-tablet": "url('/assets/img/hero-tablet.png')",
         "dyk-home-mobile": "url('/assets/img/dyk-bg.png')",
       }),
       fontSize: {
@@ -22,7 +23,7 @@ module.exports = {
         "4-5xl": "2.75rem",
       },
       height: {
-        herohome: "37rem",
+        77: "19.375rem",
         82: "20.5rem",
         88: "22rem",
       },
@@ -35,6 +36,7 @@ module.exports = {
       width: {
         36: "9.5rem",
         148: "19.5rem",
+        260: "40rem",
       },
     },
   },
