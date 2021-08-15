@@ -4296,6 +4296,10 @@ video {
   background-image: url('/assets/img/dyk-bg.png');
 }
 
+.bg-dyk-bg-tablet {
+  background-image: url('/assets/img/dyk-bg-tablet.png');
+}
+
 .from-transparent {
   --tw-gradient-from: transparent;
   --tw-gradient-stops: var(--tw-gradient-from), var(--tw-gradient-to, rgba(0, 0, 0, 0));
@@ -35387,6 +35391,10 @@ video {
     background-image: url('/assets/img/dyk-bg.png');
   }
 
+  .sm\:bg-dyk-bg-tablet {
+    background-image: url('/assets/img/dyk-bg-tablet.png');
+  }
+
   .sm\:from-transparent {
     --tw-gradient-from: transparent;
     --tw-gradient-stops: var(--tw-gradient-from), var(--tw-gradient-to, rgba(0, 0, 0, 0));
@@ -66398,6 +66406,10 @@ video {
 
   .md\:bg-dyk-home-mobile {
     background-image: url('/assets/img/dyk-bg.png');
+  }
+
+  .md\:bg-dyk-bg-tablet {
+    background-image: url('/assets/img/dyk-bg-tablet.png');
   }
 
   .md\:from-transparent {
@@ -97413,6 +97425,10 @@ video {
     background-image: url('/assets/img/dyk-bg.png');
   }
 
+  .lg\:bg-dyk-bg-tablet {
+    background-image: url('/assets/img/dyk-bg-tablet.png');
+  }
+
   .lg\:from-transparent {
     --tw-gradient-from: transparent;
     --tw-gradient-stops: var(--tw-gradient-from), var(--tw-gradient-to, rgba(0, 0, 0, 0));
@@ -128426,6 +128442,10 @@ video {
     background-image: url('/assets/img/dyk-bg.png');
   }
 
+  .xl\:bg-dyk-bg-tablet {
+    background-image: url('/assets/img/dyk-bg-tablet.png');
+  }
+
   .xl\:from-transparent {
     --tw-gradient-from: transparent;
     --tw-gradient-stops: var(--tw-gradient-from), var(--tw-gradient-to, rgba(0, 0, 0, 0));
@@ -159437,6 +159457,10 @@ video {
 
   .\32xl\:bg-dyk-home-mobile {
     background-image: url('/assets/img/dyk-bg.png');
+  }
+
+  .\32xl\:bg-dyk-bg-tablet {
+    background-image: url('/assets/img/dyk-bg-tablet.png');
   }
 
   .\32xl\:from-transparent {

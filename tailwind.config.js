@@ -16,6 +16,7 @@ module.exports = {
           "url('/assets/img/annie-spratt-135307-unsplash.png')",
         "hero-home-tablet": "url('/assets/img/hero-tablet.png')",
         "dyk-home-mobile": "url('/assets/img/dyk-bg.png')",
+        "dyk-bg-tablet": "url('/assets/img/dyk-bg-tablet.png')",
       }),
       fontSize: {
         "0xs": "0.688rem",
