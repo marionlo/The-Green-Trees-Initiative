@@ -4292,12 +4292,20 @@ video {
   background-image: url('/assets/img/hero-tablet.png');
 }
 
+.bg-hero-home-desktop {
+  background-image: url('/assets/img/hero-desktop.png');
+}
+
 .bg-dyk-home-mobile {
   background-image: url('/assets/img/dyk-bg.png');
 }
 
 .bg-dyk-bg-tablet {
   background-image: url('/assets/img/dyk-bg-tablet.png');
+}
+
+.bg-dyk-bg-lg {
+  background-image: url('/assets/img/dyk-lg.png');
 }
 
 .from-transparent {
@@ -35415,12 +35423,20 @@ video {
     background-image: url('/assets/img/hero-tablet.png');
   }
 
+  .sm\:bg-hero-home-desktop {
+    background-image: url('/assets/img/hero-desktop.png');
+  }
+
   .sm\:bg-dyk-home-mobile {
     background-image: url('/assets/img/dyk-bg.png');
   }
 
   .sm\:bg-dyk-bg-tablet {
     background-image: url('/assets/img/dyk-bg-tablet.png');
+  }
+
+  .sm\:bg-dyk-bg-lg {
+    background-image: url('/assets/img/dyk-lg.png');
   }
 
   .sm\:from-transparent {
@@ -66460,12 +66476,20 @@ video {
     background-image: url('/assets/img/hero-tablet.png');
   }
 
+  .md\:bg-hero-home-desktop {
+    background-image: url('/assets/img/hero-desktop.png');
+  }
+
   .md\:bg-dyk-home-mobile {
     background-image: url('/assets/img/dyk-bg.png');
   }
 
   .md\:bg-dyk-bg-tablet {
     background-image: url('/assets/img/dyk-bg-tablet.png');
+  }
+
+  .md\:bg-dyk-bg-lg {
+    background-image: url('/assets/img/dyk-lg.png');
   }
 
   .md\:from-transparent {
@@ -97505,12 +97529,20 @@ video {
     background-image: url('/assets/img/hero-tablet.png');
   }
 
+  .lg\:bg-hero-home-desktop {
+    background-image: url('/assets/img/hero-desktop.png');
+  }
+
   .lg\:bg-dyk-home-mobile {
     background-image: url('/assets/img/dyk-bg.png');
   }
 
   .lg\:bg-dyk-bg-tablet {
     background-image: url('/assets/img/dyk-bg-tablet.png');
+  }
+
+  .lg\:bg-dyk-bg-lg {
+    background-image: url('/assets/img/dyk-lg.png');
   }
 
   .lg\:from-transparent {
@@ -128550,12 +128582,20 @@ video {
     background-image: url('/assets/img/hero-tablet.png');
   }
 
+  .xl\:bg-hero-home-desktop {
+    background-image: url('/assets/img/hero-desktop.png');
+  }
+
   .xl\:bg-dyk-home-mobile {
     background-image: url('/assets/img/dyk-bg.png');
   }
 
   .xl\:bg-dyk-bg-tablet {
     background-image: url('/assets/img/dyk-bg-tablet.png');
+  }
+
+  .xl\:bg-dyk-bg-lg {
+    background-image: url('/assets/img/dyk-lg.png');
   }
 
   .xl\:from-transparent {
@@ -159595,12 +159635,20 @@ video {
     background-image: url('/assets/img/hero-tablet.png');
   }
 
+  .\32xl\:bg-hero-home-desktop {
+    background-image: url('/assets/img/hero-desktop.png');
+  }
+
   .\32xl\:bg-dyk-home-mobile {
     background-image: url('/assets/img/dyk-bg.png');
   }
 
   .\32xl\:bg-dyk-bg-tablet {
     background-image: url('/assets/img/dyk-bg-tablet.png');
+  }
+
+  .\32xl\:bg-dyk-bg-lg {
+    background-image: url('/assets/img/dyk-lg.png');
   }
 
   .\32xl\:from-transparent {
