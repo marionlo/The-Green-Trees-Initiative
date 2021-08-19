@@ -42,6 +42,7 @@ module.exports = {
         36: "9.5rem",
         62: "15.5rem",
         148: "19.5rem",
+        88: "22rem",
         112: "28rem",
         136: "34rem",
         144: "36rem",
@@ -49,6 +50,9 @@ module.exports = {
       },
       zIndex: {
         "-1": "-1",
+      },
+      screens: {
+        "2xl": "1400px",
       },
     },
   },
