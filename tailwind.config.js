@@ -37,6 +37,7 @@ module.exports = {
       },
       padding: {
         15: "3.875rem",
+        160: "40rem",
       },
       width: {
         36: "9.5rem",
@@ -46,7 +47,9 @@ module.exports = {
         112: "28rem",
         136: "34rem",
         144: "36rem",
+        152: "38rem",
         260: "40rem",
+        320: "80rem",
       },
       zIndex: {
         "-1": "-1",
