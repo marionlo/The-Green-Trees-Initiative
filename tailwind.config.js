@@ -34,6 +34,7 @@ module.exports = {
       },
       margin: {
         18: "4.5rem",
+        "-108": "-27rem",
       },
       padding: {
         15: "3.875rem",
@@ -50,6 +51,7 @@ module.exports = {
         152: "38rem",
         260: "40rem",
         240: "60rem",
+        280: "70rem",
         320: "80rem",
       },
       zIndex: {
