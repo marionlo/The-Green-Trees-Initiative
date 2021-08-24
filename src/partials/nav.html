@@ -45,11 +45,13 @@
         xl:order-2 xl:ml-24
       "
     >
-      <li class="xl:mr-14 cursor-pointer hover:underline">About us</li>
-      <li class="sm:ml-8 xl:mr-14 cursor-pointer hover:underline">
+      <li class="xl:mr-14 cursor-pointer hover:underline" tabindex="0">
+        About us
+      </li>
+      <li class="sm:ml-8 xl:mr-14 cursor-pointer hover:underline" tabindex="0">
         Our stories
       </li>
-      <li class="sm:ml-8 xl:mr-14 cursor-pointer hover:underline">
+      <li class="sm:ml-8 xl:mr-14 cursor-pointer hover:underline" tabindex="0">
         News and events
       </li>
     </ul>
@@ -82,6 +84,9 @@
         duration-100
         ease-in-out
       "
+      role="button"
+      aria-pressed="false"
+      tabindex="0"
     >
       Donate today
     </div>

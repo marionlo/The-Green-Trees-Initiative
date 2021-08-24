@@ -12,12 +12,12 @@ module.exports = {
         lime: "#C1F7D5",
       },
       backgroundImage: (theme) => ({
-        "hero-home-mobile": "url('../img/annie-spratt-135307-unsplash.png')",
-        "hero-home-tablet": "url('../img/hero-tablet.png')",
-        "hero-home-desktop": "url('../img/hero-desktop.png')",
-        "dyk-home-mobile": "url('../img/dyk-bg.png')",
-        "dyk-bg-tablet": "url('../img/dyk-bg-tablet.png')",
-        "dyk-bg-lg": "url('../img/dyk-lg.png')",
+        "hero-home-mobile": "url('../img/mb-hero.jpg')",
+        "hero-home-tablet": "url('../img/hero-tablet.jpg')",
+        "hero-home-desktop": "url('../img/hero-desktop.jpg')",
+        "dyk-home-mobile": "url('../img/dyk-bg.jpg')",
+        "dyk-bg-tablet": "url('../img/dyk-bg-tablet.jpg')",
+        "dyk-bg-lg": "url('../img/dyk-lg.jpg')",
       }),
       fontSize: {
         "0xs": "0.688rem",
