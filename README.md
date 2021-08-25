@@ -1,8 +1,10 @@
-# tailwindv2-parcel
+# The Green Trees initiative
 
-This is a basic project putting [TailwindCSS](https://tailwindcss.com/) CSS version 2 together with [Parcel](https://parceljs.org/). Was not able to get this to play nice with PostCSS 8, so ended up going with the PostCSS 7 compatible version of Tailwind v2. This does not have any impact on Tailwind v2 features though.
+This is a basic project putting [TailwindCSS](https://tailwindcss.com/) CSS version 2 together with [Parcel](https://parceljs.org/).
+I have downloaded a UI kit on Behance that you can find [here](https://www.behance.net/gallery/71348061/Non-profit-UI-Kit) in order to integrate the design. For the moment I have created the landing page, that I have integrated with Tailwind. The landing page is mobile first, and responsive.
 
-The repo is discussed in detail at [Tailwind.Club](https://tailwind.club/setting-up-tailwind-v2-with-parcel/). If you have any suggestions or improvements, please feel free to submit a pull request.
+## Live version
+You can find the live version on Netlify right [here](https://the-greentrees-initiative.netlify.app/)
 
 ## Usage
 
